@@ -16,7 +16,10 @@
  💡 Projects
 - ☀️ Solar Tracking System (Java-Arduino-MATLAB integration)
 - 🛡️ Kioptrix Level 1.1 – Linux-based Pentesting VM (Walkthrough Completed)
-- 
+
+🤝 Let’s Connect!
+
+- 🔗 LinkedIn-https://www.linkedin.com/in/jayasree-g-kalkura-97054b307
 
  😄 Pronouns
 She/Her
