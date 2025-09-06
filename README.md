@@ -1,12 +1,11 @@
 👋 Hi, I’m Jayasree!
 
-🎓 I'm a 2nd-year B.Tech student in **Electrical and Computer Engineering** at Mar Baselios College of Engineering and Technology.
+🎓 I'm a 3rd-year B.Tech student in **Electrical and Computer Engineering** at Mar Baselios College of Engineering and Technology.
 
  👀**Interests**
 - Cybersecurity & Ethical Hacking 🔐
 - Data Science & Machine Learning 📊
 - Software Development with Java & Python 💻
-- IoT & Embedded Systems (Arduino) 🌞
 
  🌱**Currently Learning**
 - Pursuing Minor in Data Science
